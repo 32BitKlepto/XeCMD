@@ -10,17 +10,17 @@ XeCMD is set and ready to go immediatly upon launch. You do not need to have you
 - JRPC2.xex [https://www.mediafire.com/file/omsbks5l6h1d9mo/JRPC2.xex/file]
 
 ##Commands##
-• connect                        - Connect To Default Console
-• connectip [LOCALIP]            - Connect To Console Via Local IP
-• readtemps
-• shutdown
-• reboot
-• wreboot
-• setfanspeed [#]
-• runxex [.XEX/.XBE DIR]
-• cpukey
-• opendisc
-• closedisc
+- connect                        - Connect To Default Console
+- connectip [LOCALIP]            - Connect To Console Via Local IP
+- readtemps
+- shutdown
+- reboot
+- wreboot
+- setfanspeed [#]
+- runxex [.XEX/.XBE DIR]
+- cpukey
+- opendisc
+-closedisc
 • readtitle
 • restitle
 • getgt
