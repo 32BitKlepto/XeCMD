@@ -3,7 +3,7 @@ This is the first PUBLIC release of XeCMD. XeCMD is a hacked Xbox 360 RTE (Real 
 I will be open sourcing XeCMD in the near future, as for now however, I want to wait until I am satisfied with the smoothness and the operational aspect of XeCMD, including adding many more commands in the future. Until then, for now XeCMD will not be open sourced at this current time.
 
 ##Requirements##
-- A Hacked Xbox 360 Console/Devkit Xbox 360 Console
+- A Hacked Xbox 360/Devkit Xbox 360 Console
 - Visual Studio 2010 (Required For Xbox 360 Neighborhood) [https://archive.org/details/dev-microsoft-visual-studio-2005-2015-Pro/]
 - Xbox 360 Neighborhood [https://www.mediafire.com/file/l9786i9endh5w5e/XBOX360_SDK_21256.3.exe/file]
 - XBDM.xex [https://www.sendspace.com/file/qns1vg]
