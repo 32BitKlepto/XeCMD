@@ -9,6 +9,7 @@ XeCMD is set and ready to go immediatly upon launch. You do not need to have you
 - XBDM.xex [https://www.sendspace.com/file/qns1vg]
 - JRPC2.xex [https://www.mediafire.com/file/omsbks5l6h1d9mo/JRPC2.xex/file]
 
+XeCMD is setup with quite a few commands at launch. I will be adding many more in future updates as time goes on, but for now this is what XeCMD is loaded with as up V1.1.37 Beta-PR
 ##Commands##
 - connect                        - Connect to the default console
 - connectip [IP]                 - Connect to console via local ip
