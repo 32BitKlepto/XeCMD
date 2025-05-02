@@ -7,7 +7,7 @@ I will be open sourcing XeCMD in the near future, as for now however, I want to 
 ##Requirements##
 - A Hacked Xbox 360/Devkit Xbox 360 Console
 - Visual Studio 2010 (Required For Xbox 360 Neighborhood) [https://archive.org/details/dev-microsoft-visual-studio-2005-2015-Pro/]
-- Xbox 360 Neighborhood [https://www.mediafire.com/file/l9786i9endh5w5e/XBOX360_SDK_21256.3.exe/file]
+- Xbox 360 Neighborhood [https://www.mediafire.com/file/oo761qxqbd6rczo/XBOX360+SDK+21256.8.exe]
 - XBDM.xex [https://www.sendspace.com/file/qns1vg]
 - JRPC2.xex [https://www.mediafire.com/file/omsbks5l6h1d9mo/JRPC2.xex/file]
 
