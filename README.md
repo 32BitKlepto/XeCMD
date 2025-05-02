@@ -2,6 +2,8 @@ XeCMD is a hacked Xbox 360 RTE (Real Time Editing) JRPC/XBDM based command line 
 
 I will be open sourcing XeCMD in the near future, as for now however, I want to wait until I am satisfied with the smoothness and the operational aspect of XeCMD, including adding many more commands in the future. Until then, for now XeCMD will not be open sourced at this current time.
 
+[img]https://i.imgur.com/mhPJa4H.png[/img]
+
 ##Requirements##
 - A Hacked Xbox 360/Devkit Xbox 360 Console
 - Visual Studio 2010 (Required For Xbox 360 Neighborhood) [https://archive.org/details/dev-microsoft-visual-studio-2005-2015-Pro/]
